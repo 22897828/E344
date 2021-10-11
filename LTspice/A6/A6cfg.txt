@@ -1,0 +1,5 @@
+.param transtop 	1
+.param transtart 	0.000000E+00
+.param timestep 	2.5000000E-04
+.param noiseAmp		1E-2
+.param noiseFreq	5E+1
